@@ -5,9 +5,9 @@ Cyan
 Yellow
 Charcoal
 Khaki
+Green
 Coral
 Silver
 Fuchsia
-Purple
 Brown
 Red
